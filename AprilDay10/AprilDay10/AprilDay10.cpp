@@ -42,4 +42,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    std::cout << "testing" << std::endl;
 }

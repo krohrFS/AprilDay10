@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krohr\\source\\repos\\AprilDay10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C04B40-ABD8-418A-8B27-DC31DD4FE997}|AprilDay10\\AprilDay10.vcxproj|C:\\Users\\krohr\\source\\repos\\AprilDay10\\AprilDay10\\AprilDay10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51C04B40-ABD8-418A-8B27-DC31DD4FE997}|AprilDay10\\AprilDay10.vcxproj|solutionrelative:AprilDay10\\AprilDay10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AprilDay10.cpp",
+              "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\AprilDay10\\AprilDay10\\AprilDay10.cpp",
+              "RelativeDocumentMoniker": "AprilDay10\\AprilDay10.cpp",
+              "ToolTip": "C:\\Users\\krohr\\source\\repos\\AprilDay10\\AprilDay10\\AprilDay10.cpp",
+              "RelativeToolTip": "AprilDay10\\AprilDay10.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T17:06:26.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

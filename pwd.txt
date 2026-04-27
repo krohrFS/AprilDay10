@@ -58,5 +58,24 @@ git status
 git add -A
 	this will add files and folders to tracked/commited
 
+git remote add alias URLGOESHERE
+	this will create a connection between your remote repo
+	and your local repo
+
+git push alias master
+	this will push your committed files to GitHub
+	
+
+Then to download something from GitHub
+git init
+
+git remote add alias urlgoeshere
+
+git pull alias master
+
+testing
+
+another test
+
 
 

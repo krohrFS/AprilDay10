@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\krohr\\source\\repos\\AprilDay10\\",
+  "WorkspaceRootPath": "C:\\Users\\krohr\\Downloads\\example\\AprilDay10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51C04B40-ABD8-418A-8B27-DC31DD4FE997}|AprilDay10\\AprilDay10.vcxproj|C:\\Users\\krohr\\source\\repos\\AprilDay10\\AprilDay10\\AprilDay10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{51C04B40-ABD8-418A-8B27-DC31DD4FE997}|AprilDay10\\AprilDay10.vcxproj|C:\\Users\\krohr\\Downloads\\example\\AprilDay10\\AprilDay10\\AprilDay10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{51C04B40-ABD8-418A-8B27-DC31DD4FE997}|AprilDay10\\AprilDay10.vcxproj|solutionrelative:AprilDay10\\AprilDay10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AprilDay10.cpp",
-              "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\AprilDay10\\AprilDay10\\AprilDay10.cpp",
+              "DocumentMoniker": "C:\\Users\\krohr\\Downloads\\example\\AprilDay10\\AprilDay10\\AprilDay10.cpp",
               "RelativeDocumentMoniker": "AprilDay10\\AprilDay10.cpp",
-              "ToolTip": "C:\\Users\\krohr\\source\\repos\\AprilDay10\\AprilDay10\\AprilDay10.cpp",
+              "ToolTip": "C:\\Users\\krohr\\Downloads\\example\\AprilDay10\\AprilDay10\\AprilDay10.cpp",
               "RelativeToolTip": "AprilDay10\\AprilDay10.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-27T17:06:26.149Z",
               "EditorCaption": ""
