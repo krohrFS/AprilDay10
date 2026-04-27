@@ -42,6 +42,103 @@
 
 */
 
+/*
+    command line and get
+    pwd
+    print working directory
+    This will show the true path to where you are in the terminal
+
+
+ls
+    list
+    Will show a list of folders and files in the directory
+
+ls -la
+    shows everything in the folder including hidden folders
+    along with a ton of other information you'll end up caring about
+    way later on
+
+cd
+    change directory
+    this lets you change or "open" folders in the terminal
+
+
+mkdir
+    make directory
+    creates a folder
+
+rmdir
+    remove directory
+    removes a directory - be very careful with what you
+    removes an empty directory
+
+rm
+    remove file or folder with proper optional command
+    rm -r folderName will remove it
+    again be very careful
+
+
+remove
+
+touch
+    creates a file
+    That when you create a file this way you need to provide the file type otherwise it is a generic file. With that in mind you change it later
+And you can open with notepad etc
+
+nano
+    nano is a text editor that is the easiest to use
+
+    nano filename
+
+    to save ctrl+x, Y, enter
+
+
+git init
+    initializes a local git repo (repository)
+    In File explorer to view hidden files
+    View->Show->Hidden Items
+
+    The reason that is relevant is git init makes a hidden
+    .git folder
+
+git status
+    this will show tracked and untracked files in the repo
+
+    red is untracked and green is tracked
+
+    red files will not commited
+
+    green files will
+
+git add -A
+    this will add files and folders to tracked/commited
+
+git remote add alias URLGOESHERE
+    this will create a connection between your remote repo
+    and your local repo
+
+git push alias master
+    this will push your committed files to GitHub
+
+
+Then to download something from GitHub
+git init
+
+git remote add alias urlgoeshere
+
+git pull alias master
+
+testing
+
+another test
+
+
+
+
+
+
+*/
+
 
 
 // methods
